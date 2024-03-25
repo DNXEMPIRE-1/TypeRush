@@ -47,6 +47,6 @@ To run the project in your local environment, follow these steps:
 
 ## 📸 Video
 
-https://github.com/mirayatech/TypeRush/assets/71933266/c809db71-fd1a-481f-8f18-6f4a3a6fef11
+https://github.com/DNXEMPIRE-1/TypeRush/assets/71933266/c809db71-fd1a-481f-8f18-6f4a3a6fef11
 
 
